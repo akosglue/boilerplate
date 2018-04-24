@@ -1,0 +1,14 @@
+{
+    "name": "glue/frontend-boilerplate",
+    "description": "craft3",
+    "type": "library",
+    "require": {
+        "craftcms/craft": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "akos",
+            "email": "akos@glue.be"
+        }
+    ]
+}
