@@ -3,7 +3,7 @@
     "description": "craft3",
     "type": "library",
     "require": {
-        "craftcms/craft": "^1.0"
+        "craftcms/craft": "^3.0"
     },
     "authors": [
         {
